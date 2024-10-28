@@ -185,3 +185,7 @@ sup { font-size: 80%; vertical-align: top; }
         --tertiary-color: #2d2d2d;
     }
 }
+
+.title {
+    text-align: center;
+}
